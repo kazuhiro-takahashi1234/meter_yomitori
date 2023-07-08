@@ -9,4 +9,4 @@ statistics
 datetime
 pygwalker
 numpy
-brew install zbar
+
