@@ -3,7 +3,6 @@ Image
 pandas
 openpyxl
 pyzbar
-os
 cv2
 statistics
 datetime
