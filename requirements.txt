@@ -9,5 +9,5 @@ opencv-python-headless==4.5.3.56
 statistics
 datetime
 pygwalker
-numpy
+numpy == 1.24.2
 qrcode
