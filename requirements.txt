@@ -1,0 +1,13 @@
+streamlit
+Image
+io
+pandas
+openpyxl
+pyzbar.pyzbar
+os
+cv2
+statistics
+datetime
+pygwalker
+streamlit.components.v1
+numpy
