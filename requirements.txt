@@ -3,7 +3,7 @@ streamlit == 1.24.1
 Image
 pandas
 openpyxl
-pyzbar
+pyzbar == 0.1.9
 opencv-python
 statistics
 datetime
