@@ -3,7 +3,7 @@ Image
 pandas
 openpyxl
 pyzbar
-cv2
+opencv-python
 statistics
 datetime
 pygwalker
