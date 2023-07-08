@@ -3,11 +3,11 @@ streamlit == 1.24.1
 Image
 pandas
 openpyxl
+numpy == 1.24.2
 pyzbar == 0.1.8
 pyzbar[scripts]
 opencv-python-headless==4.5.3.56
 statistics
 datetime
 pygwalker
-numpy == 1.24.2
 qrcode
