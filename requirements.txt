@@ -7,5 +7,4 @@ opencv-python
 statistics
 datetime
 pygwalker
-streamlit.components.v1
 numpy
