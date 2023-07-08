@@ -9,4 +9,4 @@ statistics
 datetime
 pygwalker
 numpy
-
+zbar==0.23
