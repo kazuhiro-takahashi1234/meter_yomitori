@@ -2,7 +2,7 @@ streamlit
 Image
 pandas
 openpyxl
-pyzbar.pyzbar
+pyzbar
 os
 cv2
 statistics
