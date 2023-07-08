@@ -1,6 +1,5 @@
 # meter_yomitori
-
-https://meteryomitori-c1eqrn18jnl.streamlit.app/
+<br> 
 
 アナログメーターの自動読み取りを自動的にできないかということでテスト的に作成しました。 <br> 
 1枚の画像に対し1つの計器での読み取りはよくありますが、 <br> 
@@ -9,3 +8,16 @@ https://meteryomitori-c1eqrn18jnl.streamlit.app/
 撮影位置がぶれるので、それを補正するためにQRコードで読み取りしたいアナログメーターの場所を特定し、 <br> 
 処理を行っています。 <br> 
 
+streamlit上での動作<br> 
+https://meteryomitori-c1eqrn18jnl.streamlit.app/ <br> 
+<br> 
+1.テンプレートファイル(Excel)をアップロード<br> 
+ここにexcel_templateをアップロード(アナログメーターと紐づける情報が入っています)<br> <br> 
+
+2.検針画像フォルダをアップロード<br> 
+meter_QRcodeフォルダをアップロード（アナログメーターの画像が入っています。）<br> <br> 
+
+3.上記の1と2が完了したら数値データをエクセルでダウンロードできます。<br> <br> 
+
+4.subではダウンロードしたグラフ化したいエクセルデータをアップロードしてください。<br> 
+DL_excel_dataには3日分のデータが入っています。(2日目のみ数値を簡単にいじっています)<br> 
