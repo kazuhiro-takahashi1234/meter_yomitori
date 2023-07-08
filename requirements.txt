@@ -4,6 +4,7 @@ Image
 pandas
 openpyxl
 pyzbar == 0.1.8
+pyzbar[scripts]
 opencv-python
 statistics
 datetime
