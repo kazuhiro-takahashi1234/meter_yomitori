@@ -228,6 +228,7 @@ if uploaded_files:
             "時刻",
         ]
     )
+    merged_df = merged_df.sort_values('順番')
     st.write(merged_df, width=800, height=200)
     merged_df.to_excel(buf := BytesIO(), index=False)
 
